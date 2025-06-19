@@ -1,5 +1,7 @@
 vim.cmd('colorscheme gruvbox')
 
+vim.opt.colorcolumn = '81'
+
 vim.opt.nu = true                 -- set line numbers -- set line numbers
 vim.opt.relativenumber = true     -- use relative line numbers
  
